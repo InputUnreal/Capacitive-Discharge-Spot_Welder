@@ -2,7 +2,7 @@
 18650 Capacitive Discharge Spot Welder
 ![Image](https://github.com/InputUnreal/Capacitive-Discharge-Spot_Welder/blob/main/Spot_welder.png)
 
-Cyclinderical Lithium Ion Spot Welder designed to be as cost effecitive as possible. Use capacitors instead for battery since to reduce the pulse deration (dump less heat into the battery)
+Cyclinderical Lithium Ion Spot Welder designed to be as cost effecitive as possible. Uses capacitors instead of battery, to reduce the pulse deration (dump less heat into the battery)
 
 96 * Capacitors are 16V 10000UF (ebay or aliexpress around 40 USD for 100 PCS)
 8 * IPLU300N04S4-R8 MOSFET (ebay or aliexpress 5 USD for 10 PCS)
